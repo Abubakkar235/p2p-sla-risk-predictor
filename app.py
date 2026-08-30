@@ -848,6 +848,7 @@ st.button(
     "🔄 New Prediction",
     use_container_width=True,
     on_click=reset_prediction,
+    key="start_new_prediction_button",
 )
 
 # SINGLE CASE INPUT
@@ -988,6 +989,7 @@ if input_method in [
             "🔄 New Prediction",
             use_container_width=True,
             on_click=reset_prediction,
+            key="new_prediction_button",
         )
  
     if predict_button:
@@ -1332,9 +1334,10 @@ low probability of SLA breach.
     st.write("")
  
     st.button(
-        "🔄 Start New Prediction",
+        "🔄 New Prediction",
         use_container_width=True,
         on_click=reset_prediction,
+        key="batch_new_prediction_button",
     )
  
  
