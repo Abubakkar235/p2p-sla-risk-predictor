@@ -309,3 +309,21 @@ The goal is not only to predict **whether an SLA breach may occur**, but also to
 ## 📄 License
 
 This project currently does not specify an open-source license.
+
+## 📊 Model Performance
+
+The Logistic Regression model was evaluated on a held-out final test set of **3,000 P2P cases** using standard classification metrics.
+
+| Metric | Score |
+|---|---:|
+| Accuracy | 74% |
+| Precision — SLA Breach | 40% |
+| Recall — SLA Breach | 57% |
+| F1-score — SLA Breach | 47% |
+| ROC-AUC | 0.7502 |
+
+The model achieved a **ROC-AUC of 0.7502**, indicating a reasonable ability to distinguish between SLA-breach and non-breach cases.
+
+For the SLA-breach class, the model achieved **57% recall**, meaning it identified 57% of the actual SLA-breach cases in the final test set.
+
+The model's predictions are further interpreted using SHAP to identify the features contributing most strongly to individual risk predictions.
