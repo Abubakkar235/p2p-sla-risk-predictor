@@ -28,4 +28,5 @@ Thumbs.db
 .streamlit/secrets.toml
 
 # Project datasets
-data/
+# Keep required prediction data in Git
+data/raw/
