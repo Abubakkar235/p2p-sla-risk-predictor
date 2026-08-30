@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="460" viewBox="0 0 920 460">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="460.0" y="28" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700">SLA Breach Rate by Category</text>
+<text x="250" y="99.2416" text-anchor="end" font-family="Arial" font-size="11">Maintenance</text>
+<rect x="260" y="70.888" width="602.41" height="39.38" fill="#ff7f0e" opacity="0.86"/>
+<text x="868.4148379844582" y="99.2416" font-family="Arial" font-size="11">27.0%</text>
+<text x="250" y="170.8416" text-anchor="end" font-family="Arial" font-size="11">Services</text>
+<rect x="260" y="142.488" width="618.00" height="39.38" fill="#ff7f0e" opacity="0.86"/>
+<text x="884.0" y="170.8416" font-family="Arial" font-size="11">27.7%</text>
+<text x="250" y="242.4416" text-anchor="end" font-family="Arial" font-size="11">Software</text>
+<rect x="260" y="214.088" width="358.65" height="39.38" fill="#ff7f0e" opacity="0.86"/>
+<text x="624.6538882412901" y="242.4416" font-family="Arial" font-size="11">16.1%</text>
+<text x="250" y="314.0415999999999" text-anchor="end" font-family="Arial" font-size="11">IT Equipment</text>
+<rect x="260" y="285.68799999999993" width="343.60" height="39.38" fill="#ff7f0e" opacity="0.86"/>
+<text x="609.599574257802" y="314.0415999999999" font-family="Arial" font-size="11">15.4%</text>
+<text x="250" y="385.6415999999999" text-anchor="end" font-family="Arial" font-size="11">Office Supplies</text>
+<rect x="260" y="357.28799999999995" width="317.31" height="39.38" fill="#ff7f0e" opacity="0.86"/>
+<text x="583.3059174098958" y="385.6415999999999" font-family="Arial" font-size="11">14.2%</text>
+<text x="569.0" y="450" text-anchor="middle" font-family="Arial" font-size="12">SLA breach rate (%)</text></svg>

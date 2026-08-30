@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="460" viewBox="0 0 920 460">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="460.0" y="28" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700">Vendor Confirmation Timing and SLA Rate - Adequate Samples</text>
+<rect x="230" y="45" width="13" height="13" fill="#1f77b4"/><text x="248" y="56" font-family="Arial" font-size="12">Avg PO to Vendor Confirmation hours</text>
+<rect x="440" y="45" width="13" height="13" fill="#ff7f0e"/><text x="458" y="56" font-family="Arial" font-size="12">SLA breach rate %</text>
+<text x="220" y="91.20400000000001" text-anchor="end" font-family="Arial" font-size="11">V031</text>
+<rect x="230" y="76.16" width="630.00" height="9.58" fill="#1f77b4" opacity="0.86"/><text x="865.0" y="83.63" font-family="Arial" font-size="10">187.9</text>
+<rect x="230" y="87.10" width="108.37" height="9.58" fill="#ff7f0e" opacity="0.86"/><text x="343.37216482833577" y="94.57" font-family="Arial" font-size="10">32.3</text>
+<text x="220" y="125.404" text-anchor="end" font-family="Arial" font-size="11">V023</text>
+<rect x="230" y="110.36" width="559.69" height="9.58" fill="#1f77b4" opacity="0.86"/><text x="794.6887646722424" y="117.83" font-family="Arial" font-size="10">167.0</text>
+<rect x="230" y="121.30" width="100.16" height="9.58" fill="#ff7f0e" opacity="0.86"/><text x="335.15543526752106" y="128.77" font-family="Arial" font-size="10">29.9</text>
+<text x="220" y="159.604" text-anchor="end" font-family="Arial" font-size="11">V036</text>
+<rect x="230" y="144.56" width="550.75" height="9.58" fill="#1f77b4" opacity="0.86"/><text x="785.7461375231028" y="152.03" font-family="Arial" font-size="10">164.3</text>
+<rect x="230" y="155.50" width="87.19" height="9.58" fill="#ff7f0e" opacity="0.86"/><text x="322.18524113127626" y="162.97" font-family="Arial" font-size="10">26.0</text>
+<text x="220" y="193.80400000000003" text-anchor="end" font-family="Arial" font-size="11">V011</text>
+<rect x="230" y="178.76" width="542.85" height="9.58" fill="#1f77b4" opacity="0.86"/><text x="777.8472573633702" y="186.23" font-family="Arial" font-size="10">161.9</text>
+<rect x="230" y="189.70" width="75.16" height="9.58" fill="#ff7f0e" opacity="0.86"/><text x="310.16029244957286" y="197.17" font-family="Arial" font-size="10">22.4</text>
+<text x="220" y="228.00400000000002" text-anchor="end" font-family="Arial" font-size="11">V004</text>
+<rect x="230" y="212.96" width="534.27" height="9.58" fill="#1f77b4" opacity="0.86"/><text x="769.2701392640691" y="220.43" font-family="Arial" font-size="10">159.4</text>
+<rect x="230" y="223.90" width="96.10" height="9.58" fill="#ff7f0e" opacity="0.86"/><text x="331.0950305063478" y="231.37" font-family="Arial" font-size="10">28.7</text>
+<text x="220" y="262.204" text-anchor="end" font-family="Arial" font-size="11">V019</text>
+<rect x="230" y="247.16" width="524.74" height="9.58" fill="#1f77b4" opacity="0.86"/><text x="759.7382938820278" y="254.63" font-family="Arial" font-size="10">156.5</text>
+<rect x="230" y="258.10" width="84.21" height="9.58" fill="#ff7f0e" opacity="0.86"/><text x="319.2122114824839" y="265.57" font-family="Arial" font-size="10">25.1</text>
+<text x="220" y="296.40400000000005" text-anchor="end" font-family="Arial" font-size="11">V047</text>
+<rect x="230" y="281.36" width="519.14" height="9.58" fill="#1f77b4" opacity="0.86"/><text x="754.138655559493" y="288.83" font-family="Arial" font-size="10">154.9</text>
+<rect x="230" y="292.30" width="89.01" height="9.58" fill="#ff7f0e" opacity="0.86"/><text x="324.01180980086355" y="299.77" font-family="Arial" font-size="10">26.6</text>
+<text x="220" y="330.60400000000004" text-anchor="end" font-family="Arial" font-size="11">V014</text>
+<rect x="230" y="315.56" width="514.88" height="9.58" fill="#1f77b4" opacity="0.86"/><text x="749.8831061917354" y="323.03" font-family="Arial" font-size="10">153.6</text>
+<rect x="230" y="326.50" width="80.58" height="9.58" fill="#ff7f0e" opacity="0.86"/><text x="315.584595532258" y="333.97" font-family="Arial" font-size="10">24.0</text>
+<text x="220" y="364.80400000000003" text-anchor="end" font-family="Arial" font-size="11">V035</text>
+<rect x="230" y="349.76" width="514.27" height="9.58" fill="#1f77b4" opacity="0.86"/><text x="749.2667078069388" y="357.23" font-family="Arial" font-size="10">153.4</text>
+<rect x="230" y="360.70" width="73.13" height="9.58" fill="#ff7f0e" opacity="0.86"/><text x="308.13402751206087" y="368.17" font-family="Arial" font-size="10">21.8</text>
+<text x="220" y="399.004" text-anchor="end" font-family="Arial" font-size="11">V042</text>
+<rect x="230" y="383.96" width="511.67" height="9.58" fill="#1f77b4" opacity="0.86"/><text x="746.6688557821818" y="391.43" font-family="Arial" font-size="10">152.6</text>
+<rect x="230" y="394.90" width="79.66" height="9.58" fill="#ff7f0e" opacity="0.86"/><text x="314.6587299665682" y="402.37" font-family="Arial" font-size="10">23.8</text>
+</svg>

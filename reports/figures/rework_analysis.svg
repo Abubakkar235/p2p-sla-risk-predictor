@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="460" viewBox="0 0 920 460">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="460.0" y="28" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700">Rework Impact on Duration and SLA Breach Rate</text>
+<rect x="230" y="45" width="13" height="13" fill="#1f77b4"/><text x="248" y="56" font-family="Arial" font-size="12">Avg duration days</text>
+<rect x="440" y="45" width="13" height="13" fill="#ff7f0e"/><text x="458" y="56" font-family="Arial" font-size="12">SLA breach rate %</text>
+<text x="220" y="176.01999999999998" text-anchor="end" font-family="Arial" font-size="11">No rework</text>
+<rect x="230" y="100.78" width="438.51" height="47.88" fill="#1f77b4" opacity="0.86"/><text x="673.510949120071" y="138.13" font-family="Arial" font-size="10">22.1</text>
+<rect x="230" y="155.50" width="333.77" height="47.88" fill="#ff7f0e" opacity="0.86"/><text x="568.7701729485361" y="192.85" font-family="Arial" font-size="10">16.8</text>
+<text x="220" y="347.02" text-anchor="end" font-family="Arial" font-size="11">Rework</text>
+<rect x="230" y="271.78" width="495.80" height="47.88" fill="#1f77b4" opacity="0.86"/><text x="730.7971437908496" y="309.13" font-family="Arial" font-size="10">25.0</text>
+<rect x="230" y="326.50" width="630.00" height="47.88" fill="#ff7f0e" opacity="0.86"/><text x="865.0" y="363.85" font-family="Arial" font-size="10">31.8</text>
+</svg>
